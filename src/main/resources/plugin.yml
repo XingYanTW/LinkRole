@@ -1,0 +1,4 @@
+name: Linkrole
+version: ${project.version}
+main: me.xingyan.linkrole.Main
+api-version: 1.16
