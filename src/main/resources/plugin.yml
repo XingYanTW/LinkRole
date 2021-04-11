@@ -1,4 +1,5 @@
 name: Linkrole
 version: ${project.version}
 main: me.xingyan.linkrole.Main
-api-version: 1.16
+api-version: 1.13
+depend: [DiscordSRV]
